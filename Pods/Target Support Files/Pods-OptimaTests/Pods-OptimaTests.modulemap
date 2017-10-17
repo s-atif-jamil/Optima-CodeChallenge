@@ -1,0 +1,6 @@
+framework module Pods_OptimaTests {
+  umbrella header "Pods-OptimaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
